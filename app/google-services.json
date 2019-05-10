@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1013159832775",
+    "firebase_url": "https://patipati-dec04.firebaseio.com",
+    "project_id": "patipati-dec04",
+    "storage_bucket": "patipati-dec04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013159832775:android:304b95b31a002694",
+        "android_client_info": {
+          "package_name": "com.example.patipati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013159832775-2cktm6d4u1o83pvs8491nlr2lphfqi7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patipati",
+            "certificate_hash": "fc31b009f738b065692f4112e37a6f7b5c251197"
+          }
+        },
+        {
+          "client_id": "1013159832775-dc7hhq6tsdnc9a8g5887a8c784srt5mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patipati",
+            "certificate_hash": "b8dc66cf2a8c1e6b47eef23c9c82f84d9083565b"
+          }
+        },
+        {
+          "client_id": "1013159832775-2t0fc76rounffnlnn820peqdivfdn601.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdu452auzbQgMbqA4qXorXSI34_XZerA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013159832775-2t0fc76rounffnlnn820peqdivfdn601.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
