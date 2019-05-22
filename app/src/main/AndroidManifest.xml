@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SifremiGuncelle"></activity>
+        <activity android:name=".IlanEkle"></activity>
+        <activity android:name=".SifremiGuncelle" />
         <activity android:name=".OnayKoduGir" />
         <activity android:name=".SifremiUnuttum" />
         <activity android:name=".AnaSayfa" />
